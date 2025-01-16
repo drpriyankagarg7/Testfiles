@@ -1,4 +1,4 @@
-﻿Name,Super Fund,Total Superannuation Balance,Annual Superannuation Growth Rate,Superannuation contributions per month,Contribution per annum,Insurance Through Superannuation,Status
+﻿Name,SuperFundtype,TotalSuperannuationBalance,Annual Superannuation Growth Rate,SuperannuationcontributionType,ContributionAmount,InsuranceType,InsuranceStatus
 Sophie Head,AMP MySuper (1970s),420000,5,Concessional,7000,Life,Covered
 Sophie Head,AMP MySuper (1970s),420000,,Nonconcessional,5000,Total and Permanent Disability,Covered
 Sophie Head,AMP MySuper (1970s),420000,,Employer,12540,Income Protection,Covered

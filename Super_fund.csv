@@ -1,28 +1,28 @@
 ﻿Name,SuperFundtype,TotalSuperannuationBalance,Annual Superannuation Growth Rate,SuperannuationContributionType,ContributionAmount,InsuranceType,InsuranceStatus
 Sophie Head,AMP MySuper (1970s),420000,5,Concessional,7000,Life,Covered
-Sophie Head,AMP MySuper (1970s),420000,,Nonconcessional,5000,Total and Permanent Disability,Covered
-Sophie Head,AMP MySuper (1970s),420000,,Employer,12540,Income Protection,Covered
+Sophie Head,AMP MySuper (1970s),420000,5,Nonconcessional,5000,Total and Permanent Disability,Covered
+Sophie Head,AMP MySuper (1970s),420000,5,Employer,12540,Income Protection,Covered
 Alex Smith,AMP MySuper (1980s),650000,5.5,Concessional,15000,Life,Covered
-Alex Smith,AMP MySuper (1980s),650000,,Nonconcessional,10000,Total and Permanent Disability,Covered
-Alex Smith,AMP MySuper (1980s),650000,,Employer,18240,Income Protection,Covered
+Alex Smith,AMP MySuper (1980s),650000,5.5,Nonconcessional,10000,Total and Permanent Disability,Covered
+Alex Smith,AMP MySuper (1980s),650000,5.5,Employer,18240,Income Protection,Covered
 Steve Maxwell,AMP MySuper (1980s),300000,5,Concessional,10000,Life,Covered
-Steve Maxwell,AMP MySuper (1980s),300000,,Nonconcessional,5000,Total and Permanent Disability,Covered
-Steve Maxwell,AMP MySuper (1980s),300000,,Employer,13680,Income Protection,Covered
+Steve Maxwell,AMP MySuper (1980s),300000,5,Nonconcessional,5000,Total and Permanent Disability,Covered
+Steve Maxwell,AMP MySuper (1980s),300000,5,Employer,13680,Income Protection,Covered
 Natalie Turner,AMP MySuper (1990s Plus),650000,6,Concessional,15000,Life,Covered
-Natalie Turner,AMP MySuper (1990s Plus),650000,,Nonconcessional,10000,Total and Permanent Disability,Covered
-Natalie Turner,AMP MySuper (1990s Plus),650000,,Employer,18240,Income Protection,Covered
+Natalie Turner,AMP MySuper (1990s Plus),650000,6,Nonconcessional,10000,Total and Permanent Disability,Covered
+Natalie Turner,AMP MySuper (1990s Plus),650000,6,Employer,18240,Income Protection,Covered
 Melissa Carter,AMP MySuper (1980s),600000,5.5,Concessional,12000,Life,Covered
-Melissa Carter,AMP MySuper (1980s),600000,,Nonconcessional,8000,Total and Permanent Disability,Covered
-Melissa Carter,AMP MySuper (1980s),600000,,Employer,17670,Income Protection,Covered
+Melissa Carter,AMP MySuper (1980s),600000,5.5,Nonconcessional,8000,Total and Permanent Disability,Covered
+Melissa Carter,AMP MySuper (1980s),600000,5.5,Employer,17670,Income Protection,Covered
 Michael Thompson,AMP MySuper (1980s),800000,6.5,Concessional,25000,Life,Covered
-Michael Thompson,AMP MySuper (1980s),800000,,Nonconcessional,20000,Total and Permanent Disability,Covered
-Michael Thompson,AMP MySuper (1980s),800000,,Employer,24000,Income Protection,Covered
+Michael Thompson,AMP MySuper (1980s),800000,6.5,Nonconcessional,20000,Total and Permanent Disability,Covered
+Michael Thompson,AMP MySuper (1980s),800000,6.5,Employer,24000,Income Protection,Covered
 Benjamin Clarke,AMP MySuper (1980s),800000,6,Concessional,25000,Life,Covered
-Benjamin Clarke,AMP MySuper (1980s),800000,,Nonconcessional,15000,Total and Permanent Disability,Covered
-Benjamin Clarke,AMP MySuper (1980s),800000,,Employer,22800,Income Protection,Covered
+Benjamin Clarke,AMP MySuper (1980s),800000,6,Nonconcessional,15000,Total and Permanent Disability,Covered
+Benjamin Clarke,AMP MySuper (1980s),800000,6,Employer,22800,Income Protection,Covered
 Daniel Roberts,AMP MySuper (1980s),350000,5.5,Concessional,12000,Life,Covered
-Daniel Roberts,AMP MySuper (1980s),350000,,Nonconcessional,7000,Total and Permanent Disability,Covered
-Daniel Roberts,AMP MySuper (1980s),350000,,Employer,17100,Income Protection,Covered
+Daniel Roberts,AMP MySuper (1980s),350000,5.5,Nonconcessional,7000,Total and Permanent Disability,Covered
+Daniel Roberts,AMP MySuper (1980s),350000,5.5,Employer,17100,Income Protection,Covered
 Christopher Wallace,AMP MySuper (1980s),400000,6,Concessional,15000,Life,Covered
-Christopher Wallace,AMP MySuper (1980s),400000,,Nonconcessional,10000,Total and Permanent Disability,Covered
-Christopher Wallace,AMP MySuper (1980s),400000,,Employer,21600,Income Protection,Covered
+Christopher Wallace,AMP MySuper (1980s),400000,6,Nonconcessional,10000,Total and Permanent Disability,Covered
+Christopher Wallace,AMP MySuper (1980s),400000,6,Employer,21600,Income Protection,Covered

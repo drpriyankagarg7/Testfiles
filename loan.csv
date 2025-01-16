@@ -1,11 +1,11 @@
-﻿Name,Loan,Principal amount ($),Interest rate(%),Remaining Balance ($)
+﻿Name,LoanType,PrincipalAmount,InterestRate,RemainingBalance
 Sophie Head,Mortgage Loan,300000,3.5,280000
 Sophie Head,Personal Loan,10000,7,9000
 Sophie Head,Car Loan,25000,5,22000
-Alex Smith,Mortgage Loan,"2,00,000",3.2,"1,80,000"
-Alex Smith,Personal Loan,"15,000",6.5,"12,000"
-Alex Smith,Car Loan,"20,000",4.5,"18,000"
-Steve Maxwell,Mortgage Loan,"3,50,000",2.8,"3,20,000"
-Steve Maxwell,Personal Loan,"10,000",5.5,"8,000"
-Steve Maxwell,Car Loan,"25,000",4.2,"20,000"
-Steve Maxwell,Student Loan,"40,000",4.5,"30,000"
+Alex Smith,Mortgage Loan,200000,3.2,180000
+Alex Smith,Personal Loan,15000,6.5,12000
+Alex Smith,Car Loan,20000,4.5,18000
+Steve Maxwell,Mortgage Loan,350000,2.8,320000
+Steve Maxwell,Personal Loan,10000,5.5,8000
+Steve Maxwell,Car Loan,25000,4.2,20000
+Steve Maxwell,Student Loan,40000,4.5,30000
